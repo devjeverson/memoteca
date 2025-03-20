@@ -1,0 +1,22 @@
+{
+   "pensamentos":[
+      {
+         "id": 1,
+         "conteudo": "A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.",
+         "autoria": "Charles Chaplin",
+         "modelo": "modelo1"
+      },
+      {
+         "id": 2,
+         "conteudo": "Diga a si mesmo o que gostaria de ouvir dos outros.",
+         "autoria": "Charles Chaplin",
+         "modelo": "modelo2"
+      },
+      {
+         "id": 3,
+         "conteudo": "O Oceano é um poema sem palavras.",
+         "autoria": "Charles Chaplin",
+         "modelo": "modelo3"
+      }
+   ]
+}
